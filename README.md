@@ -1,4 +1,4 @@
-# 🧠 Titanic Survival Prediction API (Flask + ML Model Deployment)
+[# 🧠 Titanic Survival Prediction API (Flask + ML Model Deployment)
 
 This project is a simple Flask-based REST API that predicts Titanic survival outcomes using a trained machine learning model. The model uses three features: Pclass, Sex, and Age.
 
@@ -133,4 +133,4 @@ MIT License. Free to use, modify, and share.
 - Titanic dataset from Github  
 - scikit-learn  
 - Flask  
-- Postman
+- Postman](https://github.com/benojamesroy/TitanicMLModel)
